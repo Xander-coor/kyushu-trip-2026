@@ -1,0 +1,1539 @@
+{
+ "meta": {
+  "title": "九州行程",
+  "fullTitle": "九州行程草案（2026/12/25–2027/1/2）",
+  "summary": "兩人九天，依已訂機票與飯店排出的草案。熊本進出、黑川溫泉、別府＋九州 safari、小倉、博多跨年，再回熊本搭機。",
+  "dataVersion": "2026-11-11",
+  "statusAsOf": "狀態為 2026/11/11（台北時間）所知。租車估價取自 2026/11/10 官網試算。",
+  "tripStart": "2026-12-25",
+  "tripEnd": "2027-01-02",
+  "timeNote": "日本境內時間一律為日本時間（JST，UTC+9，比台灣快 1 小時）。",
+  "bookedNote": "表上「已訂」與「建議」請分開看；沒標已訂的，都還只是建議，沒有代為預訂。",
+  "legendNote": "標「報告」的是研究生報告或節目說明；標「部落格」的是 Surfer 從 Peikie、熊本太太、風塵萬里、新飯店住宿評鑑、許傑旅行圖中整理出來的內容；標「路線補充」的是順路需要、另查官方或可靠來源的點。互相矛盾、年底尚未核對，或來源沒寫明的，都標「需再確認」。",
+  "draftUrl": "https://cursor.com/canvas/store-ec609458-f1ca-4d69-9a53-91984ab3abb3/cecb77bc-cd0a-48b4-8535-80acc70e44b4",
+  "blogNote": "「部落格補充」取自 Surfer 的部落格逐日整理，不是草案正文，僅供參考。標「震前」的是 2026 年 7 月熊本地震前寫的內容。"
+ },
+ "statusLabels": {
+  "booked": "已訂",
+  "notBooked": "尚未訂",
+  "estimate": "估價・未訂",
+  "planned": "已計畫・未訂",
+  "mixed": "部分已訂",
+  "suggested": "建議",
+  "none": "—"
+ },
+ "days": [
+  {
+   "id": "2026-12-25",
+   "label": "12/25",
+   "weekday": "五",
+   "title": "抵達熊本",
+   "base": "熊本市",
+   "stay": {
+    "name": "Candeo Hotels 熊本新市街",
+    "status": "booked"
+   },
+   "summary": "18:15 抵 KMJ，利木津經櫻町約 1,000 日圓，進市區、頂樓浴場",
+   "items": [
+    {
+     "time": "15:05 台灣時間",
+     "text": "星宇航空 台中 RMQ 起飛",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "18:15",
+     "text": "抵達阿蘇熊本機場 KMJ，入境、領行李",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "約 19:00",
+     "text": "搭機場利木津巴士到櫻町巴士總站或通町筋（約 45 分；作者搭到櫻町為 1,000 日圓）",
+     "category": "建議/部落格",
+     "status": "suggested"
+    },
+    {
+     "time": "約 20:00",
+     "text": "入住 Candeo Hotels 熊本新市街（中央區新市街 8-7）",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "晚上",
+     "text": "附近吃晚餐；泡飯店頂樓浴場看熊本城夜景",
+     "category": "報告（第 247 回）",
+     "status": "suggested"
+    }
+   ],
+   "notes": [
+    {
+     "text": "空港特快只停櫻町巴士總站和通町筋，去 Candeo 可以搭這班；要去 JR 熊本站的話，不要搭空港特快。往市區的巴士在 4 號站牌。（風塵萬里 https://wind.suzukihiro.tw/kumamoto-airport/ ；文中部分為震前資訊）",
+     "sources": [
+      12
+     ]
+    },
+    {
+     "text": "熊本能不能用全國通行的交通系 IC 卡，部落格說法不一：一篇寫 2024/11/15 起不能用、建議帶信用卡，另一篇寫機場巴士可以刷 IC 卡。需再確認，備好信用卡最保險。"
+    },
+    {
+     "text": "落地後時間偏晚。部落格提到附近的烤肉 和牛のたか 空（17:00-23:00，文中寫無公休）、居酒屋 あじ彩（16:00-03:00）；五郎八的最後點餐是 20:45，落地後會很趕。各店年底是否照常營業需再確認。"
+    },
+    {
+     "text": "第 280 回介紹的料理谷邸 葛籠（https://japanvibes.net/ep/280/）是古町一間 130 年的町家旅館，不是料亭。全館 7 間房，沒有停車場；依官網，入住 15:00-21:00、退房 10:00；節目說早餐約 550 日圓。這晚和 1/1 已經訂了 Candeo，只當換住的參考。年底有沒有營業需再確認。",
+     "sources": [
+      3
+     ]
+    }
+   ],
+   "blog": [
+    {
+     "text": "另一條路線是機場接駁車「空港ライナー」到 JR 肥後大津站，再轉 JR 到熊本站（480 円）。接駁車一天 65 班，不用預約。接駁車車資熊本太太寫 200 円、風塵萬里寫免費，說法矛盾。",
+     "from": "熊本太太 https://mmktabi.com/kumamoto-fukuoka-traffic/",
+     "verify": true
+    },
+    {
+     "text": "焼肉 和牛のたか 空：下通 1-5-10 TT ビル 5F，市電「通町筋」站走路約 4 分鐘。營業 17:00–23:00（L.O. 22:30），無公休。可以在 HOT PEPPER 用國外手機號碼線上預約。",
+     "from": "熊本太太（2026-11-06，震後）"
+    },
+    {
+     "text": "五郎八（老字號鄉土料理）：花畑町 12-8 銀杏会館 B1F，17:00–22:00（L.O. 20:45），週日公休。12/25 是週五，有開，但 L.O. 很早，落地後時間會很趕。",
+     "from": "Peikie 熊本系列 2 https://peikie.com/aboutkumamoto2/"
+    },
+    {
+     "text": "居酒屋 あじ彩 熊本西銀座通り店：新市街 3-3 岡村ビル，每天 16:00–03:00，有四層樓包廂，可用平板點餐。",
+     "from": "Peikie",
+     "prequake": true
+    }
+   ]
+  },
+  {
+   "id": "2026-12-26",
+   "label": "12/26",
+   "weekday": "六",
+   "title": "熊本城 → 黑川溫泉",
+   "base": "黑川溫泉",
+   "stay": {
+    "name": "湯峡の響き 優彩",
+    "status": "booked"
+   },
+   "summary": "熊本城（9:00-17:00、800 日圓）→ 12:30 新幹線口店取車（估價、未訂）→ 黑川湯めぐり",
+   "items": [
+    {
+     "time": "8:45",
+     "text": "退房（11:00 前），行李寄放櫃臺",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "9:00-11:00",
+     "text": "熊本城（9:00-17:00，高中以上 800 日圓），步行到城下町",
+     "category": "報告/部落格",
+     "status": "suggested"
+    },
+    {
+     "time": "11:30",
+     "text": "午餐：鶴屋百貨地下二樓菅乃屋先試馬肉，或桂花拉麵、青柳本店",
+     "category": "報告（熊本攻略文）",
+     "status": "suggested"
+    },
+    {
+     "time": "12:30",
+     "text": "取行李，到熊本新幹線口店取車（Prius 估價，尚未預訂）",
+     "category": "建議（未訂）",
+     "status": "estimate"
+    },
+    {
+     "time": "12:45-14:40",
+     "text": "開往黑川，經阿蘇與 Milk Road 約 1 小時 50 分",
+     "category": "建議",
+     "status": "suggested"
+    },
+    {
+     "time": "14:40",
+     "text": "旅館組合風の舎買入湯手形（1,500 日圓）",
+     "category": "路線補充/部落格",
+     "status": "suggested"
+    },
+    {
+     "time": "15:00",
+     "text": "入住湯峡の響き 優彩（訂房平台上亦稱幽京之響 由彩，同一間）",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "傍晚-21:00",
+     "text": "拿手形逛 2-3 家露天風呂",
+     "category": "路線補充",
+     "status": "suggested"
+    },
+    {
+     "time": "晚上",
+     "text": "旅館晚餐，泡館內溫泉；竹燈活動湯明若已開始可一併看，2026 年點燈日期需再確認",
+     "category": "已訂住宿/部落格",
+     "status": "mixed"
+    }
+   ],
+   "notes": [
+    {
+     "text": "熊本城在 2026/7/28 令和 8 年熊本地震後臨時休園，8/13 重新開放，官方 9/18 公告為通常營業。Peikie 寫 9:00-17:00、最後入場 16:30、高中以上 800 日圓。城彩苑的わくわく座（湧湧座）官方先前仍寫臨時休館，現況需再確認，先不要急著買聯票。（Peikie https://peikie.com/aboutkumamoto/）",
+     "sources": [
+      18,
+      16
+     ]
+    },
+    {
+     "text": "入湯手形大人 1,500 日圓（2025 年漲價；同一篇舊文曾寫 1,300 日圓，以 1,500 為準），3 處露天風呂（其中 1 處可換飲食或伴手禮），一人一枚不能共用，有效 6 個月，所以 12/27 早上還能用。露天風呂原則禁止拍照。年底哪些館開放手形，以當天風の舎公告為準，需再確認。（風塵萬里 https://wind.suzukihiro.tw/tegata/）",
+     "sources": [
+      11,
+      9
+     ]
+    },
+    {
+     "text": "湯明竹燈：部落格寫每年大約 12 月中到隔年 4 月，12/26 晚上很可能看得到，但 2026 年實際點燈日期需再確認。"
+    },
+    {
+     "text": "在熊本市區開車：路面電車軌道若畫黃色實線，汽車絕對不能開進去；路口右轉時，算是綠燈也要先讓對向電車。（Peikie 熊本系列 1）",
+     "sources": [
+      18
+     ]
+    },
+    {
+     "text": "優彩官網正式名稱是湯峡の響き 優彩，地址 6554-1、電話 050-3613-3567。館內浴池時段，入住時再向櫃臺確認。",
+     "sources": [
+      13
+     ]
+    }
+   ],
+   "blog": [
+    {
+     "text": "風の舎：導航可以輸入電話 0967-44-0076。入湯手形在這裡買，也可以拿地圖和觀光資訊；旁邊有很多停車場，也有公共廁所和付費大型置物櫃。",
+     "from": "Peikie／風塵萬里",
+     "prequake": true
+    },
+    {
+     "text": "風の舎門口會公告「當天」能用手形的旅館和可入場時間，一定要先確認。住宿客也可以帶旅館的小提袋和毛巾，用手形去泡別家；浴巾和毛巾要自己帶，小毛巾不能下水。手形只能泡男女大眾池。",
+     "from": "風塵萬里 https://wind.suzukihiro.tw/tegata/",
+     "prequake": true
+    },
+    {
+     "text": "作者在留言區寫「冬天反而是旺季」，現場臨時找空房的機率不大。",
+     "from": "風塵萬里",
+     "prequake": true
+    },
+    {
+     "text": "離溫泉街比較遠的旅館，晚上回去的路沒什麼燈，建議結伴，或白天先買好東西。",
+     "from": "風塵萬里",
+     "prequake": true
+    },
+    {
+     "text": "熊本城：想仔細聽導覽留 2.5 小時，不聽導覽 30–45 分鐘就夠。",
+     "from": "新飯店住宿評鑑",
+     "prequake": true
+    }
+   ]
+  },
+  {
+   "id": "2026-12-27",
+   "label": "12/27",
+   "weekday": "日",
+   "title": "黑川 → 由布院 → 別府",
+   "base": "別府（建議）",
+   "stay": {
+    "name": "尚未訂（主建議別府，備選由布院）",
+    "status": "notBooked"
+   },
+   "summary": "由布院散步 → 別府溫泉；Galleria 御堂原為節目建議的住宿候選",
+   "alert": {
+    "tone": "warning",
+    "lead": "這晚還沒有住宿",
+    "text": "12/27 住宿尚未訂。主建議住別府（節目候選 Galleria 御堂原），備選由布院。詳見「住宿」分頁。"
+   },
+   "items": [
+    {
+     "time": "8:30-9:30",
+     "text": "用掉最後一張手形，早湯",
+     "category": "路線補充",
+     "status": "suggested"
+    },
+    {
+     "time": "10:00",
+     "text": "優彩退房",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "10:00-11:30",
+     "text": "走やまなみハイウェイ到由布院（約 1 小時 30 分）；冬季路況需再確認",
+     "category": "建議",
+     "status": "suggested"
+    },
+    {
+     "time": "11:30-14:00",
+     "text": "由布院散步、金鱗湖、午餐",
+     "category": "報告（第 420 回）",
+     "status": "suggested"
+    },
+    {
+     "time": "14:00-15:00",
+     "text": "開往別府",
+     "category": "建議",
+     "status": "suggested"
+    },
+    {
+     "time": "15:00 起",
+     "text": "入住別府（尚未訂）；時間夠可順路去別府地獄めぐり（8:00-17:00）",
+     "category": "建議/部落格",
+     "status": "notBooked"
+    },
+    {
+     "time": "晚上",
+     "text": "住宿溫泉、別府晚餐",
+     "category": "建議",
+     "status": "suggested"
+    }
+   ],
+   "notes": [
+    {
+     "text": "久住花公園 12 月至 2 月休園，不要順路排。若想繞路：九重夢大吊橋 8:30-17:30（閉園前 30 分停止售票，成人 500 日圓），年底與冬季是否照常開需再確認。（許傑 https://journey.tw/yumeooturihashi/ 、 https://journey.tw/kujuhanakoen/）",
+     "sources": [
+      31,
+      32
+     ]
+    },
+    {
+     "text": "報告提到金鱗湖是在秋季賞楓那集，12 月底已不是楓季，當作湖畔散步即可。部落格說清晨湖面常有霧，早上去較有氛圍；我們這天是中午前後到。"
+    },
+    {
+     "text": "由布院的 J-Tapas（晚上和牛和洋食），文中寫週三公休、週日沒列為營業日。12/27 是週日，照文章看沒開。（Peikie https://peikie.com/yufuin-j-tapas/）"
+    },
+    {
+     "text": "別府地獄：Peikie 列的各館多數 8:00-17:00，且寫年終無休；許傑寫海地獄單館票成人 500 日圓、地獄共通券 2,200-2,500 日圓。當天年底是否仍照常，出發前再看一次較保險。",
+     "sources": [
+      29,
+      30
+     ]
+    },
+    {
+     "text": "別府鶴見岳空中纜車：許傑同一篇對冬季（11/15-3/14）時間有 09:00-17:00 與 09:00-16:30 兩種寫法，需再確認。"
+    },
+    {
+     "text": "若想吃報告提的大分唐揚雞，第 367 回說在大分站樓上 JR 九州 Hotel Blossom 樓下可吃到，但大分站不在這條路上。"
+    },
+    {
+     "text": "12/27 是週日。報告第 464 回來賓說週日房價通常最低，可趁現在先訂可免費取消的房型。"
+    }
+   ],
+   "blog": [
+    {
+     "text": "やまなみハイウェイ冬季路況：Surfer 看的 5 站都沒有（搜尋了 やまなみ、九重、雪、凍結、冬季，都沒有路況相關的文章）。",
+     "verify": true
+    },
+    {
+     "text": "由布院：湯之坪街道（湯の坪横丁）是最熱鬧的大街；JR 由布院站月台有足湯，大人 160 日圓。",
+     "from": "許傑 https://journey.tw/go-yufuin/"
+    },
+    {
+     "text": "拉麵侍：湯布院町川上 3056-1，從由布院站走路 5 分鐘，10:30–21:00，用食券機點餐，午餐要排隊。",
+     "from": "Peikie https://peikie.com/ramensamurai/"
+    },
+    {
+     "text": "地獄蒸工房 鉄輪：別府市風呂本 5 組，10:00–18:00，每週三公休。建築後方有大約 26 個免費車位，週末和假日很難停。",
+     "from": "許傑 https://journey.tw/kannawa-beppu/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-28",
+   "label": "12/28",
+   "weekday": "一",
+   "title": "safari → 小倉",
+   "base": "北九州小倉",
+   "stay": {
+    "name": "Hotel Reference Kokuraekimae",
+    "status": "booked"
+   },
+   "summary": "上午 safari → 14:30 小倉駅前店還車（估價、未訂）",
+   "items": [
+    {
+     "time": "8:30",
+     "text": "別府退房出發（到園區約 20 分）",
+     "category": "建議",
+     "status": "suggested"
+    },
+    {
+     "time": "9:15-12:30",
+     "text": "九州自然動物公園 African Safari：自駕繞 safari 區、ふれあい區",
+     "category": "使用者已計畫",
+     "status": "planned",
+     "sources": [
+      5,
+      6
+     ]
+    },
+    {
+     "time": "12:30-14:00",
+     "text": "東九州道北上小倉（約 1 小時 30 分），途中休息站用餐",
+     "category": "建議",
+     "status": "suggested"
+    },
+    {
+     "time": "14:30",
+     "text": "小倉駅前店還車（Prius 估價，尚未預訂）",
+     "category": "建議（未訂）",
+     "status": "estimate"
+    },
+    {
+     "time": "15:00",
+     "text": "入住 Hotel Reference Kokuraekimae",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "晚上",
+     "text": "小倉站周邊晚餐",
+     "category": "建議",
+     "status": "suggested"
+    }
+   ],
+   "notes": [
+    {
+     "text": "官方規則：safari 區全程不能下車、車窗全關、門上鎖；擔心愛車被動物碰到可改搭叢林巴士（另收費）。成人門票 2,600 日圓（宇佐市頁面，購票前再看官網）。",
+     "sources": [
+      5,
+      7
+     ]
+    },
+    {
+     "text": "safari 官方寫全年無休，冬季 9:15-16:00；台風或積雪時會臨時休園，出發前一天要再看官網或打 0978-48-2331。Surfer 看的 5 個部落格都沒有 safari 實地文章，標準時間以官方為準，冬季當天是否照常開仍需再確認。",
+     "sources": [
+      5
+     ]
+    },
+    {
+     "text": "順路可看宇佐神宮（參拜是二禮四拍手一禮）；年底參拜和停車狀況需再確認。（許傑 https://journey.tw/usajinguu/）"
+    },
+    {
+     "text": "小倉這晚和隔晚都是 10:00 退房。"
+    }
+   ],
+   "blog": [
+    {
+     "text": "宇佐神宮周邊有收費停車場（表參道停車場、外苑停車場），12 小時大約 300–500 日圓。",
+     "from": "許傑 https://journey.tw/usajinguu/"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-29",
+   "label": "12/29",
+   "weekday": "二",
+   "title": "小倉、門司港",
+   "base": "北九州小倉",
+   "stay": {
+    "name": "Hotel Reference Kokuraekimae",
+    "status": "booked"
+   },
+   "summary": "小倉城、門司港；潮風號、平家茶屋、火之山纜車當天都沒開",
+   "alert": {
+    "tone": "warning",
+    "lead": "這天是週二，有幾件別排",
+    "text": "照 Surfer 整理的部落格：潮風號觀光小火車只在 3 月到 11 月的週六、日和國定假日運行，12/29 不會開；下關平家茶屋定休日是週二，照文章看沒開；火之山纜車從 2024/11/10 停駛，預計 2027 年 3 月才恢復。若要過海去唐戶市場，建議中午前到。"
+   },
+   "items": [
+    {
+     "time": "上午",
+     "text": "小倉城（官方：11-3 月 9:00-19:00，全年無休；部落格寫 9:00-18:00，年底時間需再確認）",
+     "category": "路線補充",
+     "status": "suggested",
+     "sources": [
+      23
+     ]
+    },
+    {
+     "time": "中午",
+     "text": "小倉站周邊午餐，或順路旦過市場（10:00-18:00，各店不同；年底營業需再確認）",
+     "category": "建議/部落格",
+     "status": "suggested"
+    },
+    {
+     "time": "下午",
+     "text": "JR 鹿兒島本線到門司港約 15 分，逛門司港レトロ；可不走潮風號",
+     "category": "路線補充/部落格",
+     "status": "suggested",
+     "sources": [
+      24,
+      25
+     ]
+    },
+    {
+     "time": "選配",
+     "text": "走關門海底人行隧道到下關，中午前看唐戶市場，再搭聯絡船回門司港；不要排平家茶屋和火之山纜車",
+     "category": "部落格",
+     "status": "suggested",
+     "sources": [
+      26,
+      27,
+      28
+     ]
+    },
+    {
+     "time": "晚上",
+     "text": "回小倉",
+     "category": "建議",
+     "status": "suggested"
+    }
+   ],
+   "notes": [
+    {
+     "text": "報告沒有小倉或北九州的景點資料，這一天以路線補充和部落格為主，可依體力改成在飯店休息。小倉城官方說活動或包場時各日時間會變，前一天再看官網。小倉城竹あかり 2026 年期間是 10/23-11/3，12 月沒有。",
+     "sources": [
+      23
+     ]
+    },
+    {
+     "text": "門司港懷舊展望室：營業時間有 10:00-22:00 與 10:00-18:00 兩種寫法；票價有 600 日圓（2026 年票價表）與 300 日圓（舊資料）兩種說法，需再確認。作者建議晴天傍晚上去看夕陽接夜景。"
+    },
+    {
+     "text": "唐戶市場營業時間也有矛盾：許傑 2026/8 專文寫平日 5:00-15:00、假日 8:00-15:00；另一篇寫 10:00-18:00。建議以較新的專文為準，中午前去，並再確認一次。12/29 是週二，算平日。",
+     "sources": [
+      27
+     ]
+    },
+    {
+     "text": "關門海底人行隧道約 780 公尺、行人免費、06:00-22:00。門司港冬季點燈期間需再確認。",
+     "sources": [
+      26
+     ]
+    }
+   ],
+   "blog": [
+    {
+     "text": "旦過市場：從小倉站搭北九州單軌電車大約 3 分鐘到「旦過站」，西出口出來就是；或是穿過魚町銀天街走 8–10 分鐘。拍照前要先問店家。12/29 年底市場營業和人潮文章沒寫。",
+     "from": "許傑 https://journey.tw/tanga-market/",
+     "verify": true
+    },
+    {
+     "text": "跨海環狀走法：門司港站 → 西鐵巴士（往田野浦方向）到「関門トンネル人道口」，或沿海濱步道走 25–30 分鐘 → 關門海底人行隧道（約 15–20 分鐘）→ 下關：御裳川公園、赤間神宮、唐戶市場 → 從唐戶碼頭搭關門聯絡船（大約 5 分鐘）回門司港。",
+     "from": "許傑 https://journey.tw/kanmon-tonneru/"
+    },
+    {
+     "text": "「門司港一出來風很大」，冬天要多穿。",
+     "from": "風塵萬里"
+    },
+    {
+     "text": "門司港的特色料理是烤咖哩（焼きカレー）。",
+     "from": "風塵萬里"
+    }
+   ]
+  },
+  {
+   "id": "2026-12-30",
+   "label": "12/30",
+   "weekday": "三",
+   "title": "小倉 → 博多、太宰府",
+   "base": "福岡博多",
+   "stay": {
+    "name": "西鐵 CROOM 博多",
+    "status": "booked"
+   },
+   "summary": "新幹線到博多、太宰府；晚上可看博多站燈飾",
+   "items": [
+    {
+     "time": "9:30-10:00",
+     "text": "小倉退房，新幹線到博多（約 15 分）",
+     "category": "已訂住宿/建議",
+     "status": "mixed"
+    },
+    {
+     "time": "10:30",
+     "text": "行李寄放西鐵 CROOM 博多（15:00 才能入住）",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "11:30-15:30",
+     "text": "去太宰府天滿宮；可從博多巴士總站 11 號月台搭旅人號約 40 分",
+     "category": "報告/部落格",
+     "status": "suggested",
+     "sources": [
+      34
+     ]
+    },
+    {
+     "time": "16:00",
+     "text": "回博多入住",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "晚上",
+     "text": "水炊鍋或牛腸鍋（要事先訂位）；17:00-23:00 可看博多站前燈飾",
+     "category": "報告（第 258 回）/部落格",
+     "status": "suggested",
+     "sources": [
+      36
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "太宰府選在 12/30 去，是為了避開除夕到正月的初詣人潮。許傑寫天滿宮 6:30-19:00，年底與元旦特別參拜時間需再確認。年底人潮和交通管制，5 個部落格都沒寫具體數字，需再確認。"
+    },
+    {
+     "text": "交通還可以從天神轉西鐵（約 30 分）。開車的話，表參道是步行街，車子進不去；這天已還車，不影響。（許傑 https://journey.tw/starbucks-dazaifu/）",
+     "sources": [
+      34,
+      33
+     ]
+    },
+    {
+     "text": "光の街・博多（博多站前廣場，主燈 HAKATARIUM）：2026/11/3-2027/1/11，點燈 17:00-23:00。12/30、12/31、1/1 晚上都還在點。跨年夜與元旦有沒有特別時間，文中沒寫，需再確認。博多聖誕市集只到 12/25，這兩天已經結束。（Peikie https://peikie.com/2026fukuokaxmax/）",
+     "sources": [
+      36
+     ]
+    },
+    {
+     "text": "醜比頭 × ACROS 福岡「醜比頭之森」：天神 ACROS，2026/11/6-2027/1/31，18:00-22:00（最後入場 21:30，成人 1,800 日圓），年底休館日需再確認。",
+     "sources": [
+      36
+     ]
+    },
+    {
+     "text": "報告第 258 回只建議提早訂水炊鍋、牛腸鍋名店，沒有列店名；店家請另選後確認年末營業日。海鳴拉麵本店週三公休，12/30 不要排那間本店。"
+    }
+   ],
+   "blog": [
+    {
+     "text": "京から鰻 太宰府天満宮裏本店：文章標題和內文都寫「目前因為火災休業中」（最後更新 2025-06-15），現況需再確認。",
+     "from": "Peikie https://peikie.com/kyokaraunagi/",
+     "verify": true
+    },
+    {
+     "text": "光の街・博多最佳拍攝點是從車站大樓二樓的空中花園往下拍。",
+     "from": "Peikie https://peikie.com/2026fukuokaxmax/"
+    },
+    {
+     "text": "作者建議的一晚散步路線：17:00 博多站前 → 18:30 中洲であい橋 → 19:30 貴賓館和天神中央公園 → 20:30 去中洲屋台或吃水炊、牛腸鍋。中洲であい橋、舊福岡縣公會堂貴賓館的燈飾期間文中沒寫。",
+     "from": "Peikie https://peikie.com/2026fukuokaxmax/",
+     "verify": true
+    }
+   ]
+  },
+  {
+   "id": "2026-12-31",
+   "label": "12/31",
+   "weekday": "四",
+   "title": "博多除夕",
+   "base": "福岡博多",
+   "stay": {
+    "name": "西鐵 CROOM 博多",
+    "status": "booked"
+   },
+   "summary": "博多慢步調、站前燈飾，除夕",
+   "items": [
+    {
+     "time": "上午",
+     "text": "睡晚一點，博多站周邊散步（報告第 423、424 回講博多站的故事）",
+     "category": "報告",
+     "status": "suggested"
+    },
+    {
+     "time": "下午",
+     "text": "自由購物或回飯店休息",
+     "category": "建議",
+     "status": "suggested"
+    },
+    {
+     "time": "17:00 起",
+     "text": "博多站前燈飾仍點到 23:00；也可順路看天神 ACROS 燈飾",
+     "category": "部落格",
+     "status": "suggested",
+     "sources": [
+      36
+     ]
+    },
+    {
+     "time": "晚上",
+     "text": "跨年晚餐要先訂；神社跨年參拜人潮很多",
+     "category": "建議",
+     "status": "suggested"
+    }
+   ],
+   "notes": [
+    {
+     "text": "除夕和元旦很多餐廳、商店會提早打烊或休息，這天刻意排得鬆，也預留給前幾天沒走完的地方。2026 跨 2027 的博多跨年活動，5 個部落格只有 Peikie 2023-2024 的舊資料，不能當成這一年的班表，需再確認。"
+    }
+   ],
+   "blog": [
+    {
+     "text": "福岡有「三社參拜（三社参り）」的習俗，新年要參拜三間神社，一般在元旦或除夕夜去。",
+     "from": "Peikie https://peikie.com/japan2024/"
+    },
+    {
+     "text": "習俗：12/31 晚上吃「年越しそば」（跨年蕎麥麵）。",
+     "from": "Peikie https://peikie.com/japan2024/"
+    }
+   ]
+  },
+  {
+   "id": "2027-01-01",
+   "label": "1/1",
+   "weekday": "五",
+   "title": "博多 → 熊本",
+   "base": "熊本市",
+   "stay": {
+    "name": "Candeo Hotels 熊本新市街",
+    "status": "booked"
+   },
+   "summary": "新幹線建議劃指定席回熊本；こむらさき公休",
+   "items": [
+    {
+     "time": "11:00 前",
+     "text": "CROOM 退房，新幹線到熊本（最快 32 分）；連假期間建議先劃指定席",
+     "category": "已訂住宿/部落格",
+     "status": "mixed"
+    },
+    {
+     "time": "中午",
+     "text": "行李寄放 Candeo（15:00 入住）",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "13:00-16:00",
+     "text": "熊本城元旦特別公開（若 2027 年照往例）；或改走城下町與新町、搭路面電車",
+     "category": "報告（熊本攻略文）",
+     "status": "suggested",
+     "sources": [
+      17
+     ]
+    },
+    {
+     "time": "晚上",
+     "text": "入住 Candeo，頂樓浴場",
+     "category": "已訂/報告（第 247 回）",
+     "status": "mixed"
+    }
+   ],
+   "notes": [
+    {
+     "text": "熊本太太寫：若不是連假節期，自由席通常有位子；1/1 正好是連假，前提不成立，建議劃指定席。（https://mmktabi.com/kumamoto-fukuoka-traffic/）",
+     "sources": [
+      20
+     ]
+    },
+    {
+     "text": "こむらさき（熊本拉麵發源店之一）定休日寫日本年末年初的新年，1/1 和 1/2 都不要排。（Peikie https://peikie.com/aboutkumamoto2/）",
+     "sources": [
+      19
+     ]
+    },
+    {
+     "text": "熊本城 2025-26 年的做法是 12/29 休園、12/30-31 開園、1/1 9:00-17:00 特別公開且免費入園；2026-27 年的公告還沒出，需再確認。元旦參拜與免費入園人潮多，12/26 已看過城的話這天可以只走外圍。",
+     "sources": [
+      17
+     ]
+    }
+   ],
+   "blog": [
+    {
+     "text": "Peikie 介紹「行李托運＋市電 24 小時乘車券」套票，只在網頁版 App「QUICK TRIP」賣；行李在熊本站的黑貓宅急便熊本車站營業所寄放，可以送到飯店。元旦有沒有服務文章沒寫。",
+     "from": "Peikie 熊本系列 1 https://peikie.com/aboutkumamoto/",
+     "verify": true
+    }
+   ]
+  },
+  {
+   "id": "2027-01-02",
+   "label": "1/2",
+   "weekday": "六",
+   "title": "熊本市區 → 回台中",
+   "base": "—",
+   "stay": {
+    "name": "—（當晚搭機回台中）",
+    "status": "none"
+   },
+   "summary": "市區、伴手禮（鶴屋初賣需再確認）→ 19:15 KMJ 起飛",
+   "items": [
+    {
+     "time": "上午",
+     "text": "上通、下通商店街，鶴屋百貨（可合併退稅）",
+     "category": "報告（熊本攻略文，PR）",
+     "status": "suggested"
+    },
+    {
+     "time": "11:00 前",
+     "text": "Candeo 退房，行李寄放",
+     "category": "已訂",
+     "status": "booked"
+    },
+    {
+     "time": "中午",
+     "text": "午餐：Katsukura、桂花拉麵或青柳本店；伴手禮辛子蓮藕、蜂樂饅頭。不要排こむらさき。",
+     "category": "報告（熊本攻略文）",
+     "status": "suggested"
+    },
+    {
+     "time": "15:30",
+     "text": "取行李，櫻町巴士總站搭利木津巴士（45-55 分）",
+     "category": "建議",
+     "status": "suggested",
+     "sources": [
+      21
+     ]
+    },
+    {
+     "time": "約 16:30",
+     "text": "抵達 KMJ，報到出境",
+     "category": "建議",
+     "status": "suggested"
+    },
+    {
+     "time": "19:15",
+     "text": "星宇航空 KMJ 起飛，21:05 台灣時間抵台中",
+     "category": "已訂",
+     "status": "booked"
+    }
+   ],
+   "notes": [
+    {
+     "text": "鶴屋：先前草案曾寫 2026 年的初賣在 1/2、提早約 1 小時開店；2027 年日程還沒公布。Surfer 看的 5 個部落格都沒寫營業時間或初賣，需再確認。當天可能會排隊與擁擠。"
+    },
+    {
+     "text": "熊本伴手禮建議在市區先買好。風塵萬里寫國際線免稅店很小，熊本的反而少（該文為震前資訊）。",
+     "sources": [
+      12
+     ]
+    },
+    {
+     "text": "各餐廳 1/2 是否營業要再查。",
+     "verify": true
+    }
+   ],
+   "blog": [
+    {
+     "text": "過安檢後可以進國內線管制區的商店和餐廳，但起飛前 60 分鐘要回來再安檢一次，在那裡買的液體不能超過 100ml。",
+     "from": "風塵萬里 https://wind.suzukihiro.tw/kumamoto-airport/",
+     "prequake": true
+    }
+   ]
+  }
+ ],
+ "stays": {
+  "nights": [
+   {
+    "nights": "12/25（五）",
+    "area": "熊本市",
+    "name": "Candeo Hotels 熊本新市街",
+    "status": "booked",
+    "via": "Booking.com",
+    "details": [
+     "地址：中央區新市街 8-7",
+     "約 20:00 入住；頂樓浴場可看熊本城夜景（報告第 247 回）"
+    ]
+   },
+   {
+    "nights": "12/26（六）",
+    "area": "黑川溫泉",
+    "name": "湯峡の響き 優彩",
+    "status": "booked",
+    "via": "Agoda",
+    "details": [
+     "訂房平台上亦稱幽京之響 由彩，同一間",
+     "地址 6554-1、電話 050-3613-3567",
+     "15:00 入住；12/27 10:00 退房",
+     "館內浴池時段，入住時再向櫃臺確認。"
+    ],
+    "sources": [
+     13
+    ]
+   },
+   {
+    "nights": "12/27（日）",
+    "area": "別府（建議）／由布院（備選）",
+    "name": "尚未訂",
+    "status": "notBooked",
+    "details": [
+     "主建議住別府（節目候選 Galleria 御堂原），備選由布院。年底房價與空房都還沒查，也還沒訂。"
+    ],
+    "highlight": true
+   },
+   {
+    "nights": "12/28（一）、12/29（二）",
+    "area": "北九州小倉",
+    "name": "Hotel Reference Kokuraekimae",
+    "status": "booked",
+    "via": "Agoda",
+    "details": [
+     "15:00 入住",
+     "小倉這晚和隔晚都是 10:00 退房。"
+    ]
+   },
+   {
+    "nights": "12/30（三）、12/31（四）",
+    "area": "福岡博多",
+    "name": "西鐵 CROOM 博多",
+    "status": "booked",
+    "via": "Agoda，地址待補",
+    "details": [
+     "15:00 才能入住；12/30 10:30 可先寄放行李",
+     "1/1 11:00 前退房"
+    ]
+   },
+   {
+    "nights": "1/1（五）",
+    "area": "熊本市",
+    "name": "Candeo Hotels 熊本新市街",
+    "status": "booked",
+    "via": "Agoda",
+    "details": [
+     "15:00 入住，中午可先寄放行李",
+     "1/2 11:00 前退房"
+    ]
+   }
+  ],
+  "night27": {
+   "callout": {
+    "lead": "主建議：12/27 住別府，12/28 一早去 safari 再北上小倉",
+    "text": "safari（九州自然動物公園 African Safari，大分縣宇佐市安心院町）就在別府、由布院的高速公路出口旁，又剛好在往小倉的路上。12/28 9:15 開園就進去，玩到 12:30 左右出發，約 14:00-14:30 到小倉，趕得上 14:30 還車和 15:00 入住，不用在黑川退房那天匆忙。這是希望去到 safari 的主排法，12/27 住宿仍尚未訂。"
+   },
+   "compare": {
+    "columns": [
+     "",
+     "主建議：別府",
+     "備選：由布院"
+    ],
+    "rows": [
+     [
+      "報告依據",
+      "第 105、315 回：ANA 洲際別府；第 458 回：Galleria 御堂原（面別府灣、房間掛流溫泉）",
+      "第 420 回：金鱗湖；第 315 回：ENOWA YUFUIN、亀の井別荘列米其林名單"
+     ],
+     [
+      "到 safari",
+      "別府 IC 約 20 分",
+      "由布岳 Smart IC 約 10 分"
+     ],
+     [
+      "到小倉",
+      "較順，在東九州道上",
+      "多繞一段，但仍可行"
+     ],
+     [
+      "適合",
+      "想泡海景溫泉、有地獄めぐり可選",
+      "想要小鎮氛圍、晚上安靜"
+     ]
+    ]
+   },
+   "candidates": [
+    {
+     "name": "Galleria 御堂原（GALLERIA MIDOBARU）",
+     "label": "節目候選",
+     "status": "notBooked",
+     "text": "來自研究生轉出的第 458 回（https://japanvibes.net/ep/458/），只是 12/27 的住宿候選，不是訂單。別府當地公司經營的藝廊飯店，來賓說每間房都有源泉掛流溫泉，也都面向別府灣。節目說房價大約 3 到 4 萬日圓，但沒講清楚是一晚還是一人、有沒有含餐。缺點是溫泉很濃，浴室金屬被侵蝕，房間偏潮濕；來賓建議晴天去看光影。年底房價和空房都還沒查，需再確認。",
+     "sources": [
+      2
+     ]
+    },
+    {
+     "name": "御宿野乃 別府八湯（Dormy Inn 系列）",
+     "label": "部落格選項",
+     "status": "notBooked",
+     "text": "飯店停車場每晚 1,200 日圓，附近 Times 停車場 24 小時 300-600 日圓；有免費私湯和頂樓展望大浴場。也只是另一個可比較的選項，年底空房與價格需再確認。（新飯店住宿評鑑，https://goodhotelreview.com/japan/beppu-hatto-onyado-nono/）",
+     "sources": [
+      37
+     ]
+    }
+   ],
+   "notes": [
+    {
+     "text": "另一種排法：12/27 黑川 10:00 退房直接開去 safari（中午前後到），玩到 15:00 左右再進別府；12/28 早上逛別府再去小倉。冬季園區 15:30 停止受理、safari 區 15:30 最後入園、16:00 閉園，下午才到會很趕。"
+    },
+    {
+     "text": "12/27 是週日。報告第 464 回來賓說週日房價通常最低，可趁現在先訂可免費取消的房型。"
+    },
+    {
+     "text": "久住花公園每年 12/1 到 2 月底全面休園，12/27 不要排。（許傑 https://journey.tw/kujuhanakoen/）",
+     "sources": [
+      32
+     ]
+    }
+   ]
+  },
+  "alternatives": [
+   {
+    "text": "料理谷邸 葛籠（第 280 回，https://japanvibes.net/ep/280/）：古町一間 130 年的町家旅館，全館 7 間房，沒有停車場；依官網，入住 15:00-21:00、退房 10:00。12/25 和 1/1 已經訂了 Candeo，只當換住的參考。年底有沒有營業需再確認。",
+    "sources": [
+     3
+    ]
+   }
+  ]
+ },
+ "transport": {
+  "flights": [
+   {
+    "label": "去程",
+    "text": "12/25 星宇航空 台中 RMQ 15:05（台灣時間）→ 阿蘇熊本機場 KMJ 18:15",
+    "status": "booked"
+   },
+   {
+    "label": "回程",
+    "text": "1/2 星宇航空 KMJ 19:15 → 台中 RMQ 21:05（台灣時間）",
+    "status": "booked"
+   }
+  ],
+  "car": {
+   "callout": {
+    "lead": "這是估價，不是訂單",
+    "text": "來自租車 bot，按 Toyota Rent a Car 官網在 2026/11/10（台北時間）的試算。尚未預訂，也還沒付款。官網：https://rent.toyota.co.jp/"
+   },
+   "props": [
+    {
+     "label": "車種",
+     "value": "Prius 2.0，車種指定"
+    },
+    {
+     "label": "取車",
+     "value": "12/26 12:30，熊本新幹線口店（096-211-0100，營業 8:00-20:00）"
+    },
+    {
+     "label": "還車",
+     "value": "12/28 14:30，小倉駅前店（093-511-0100）；異地還車"
+    },
+    {
+     "label": "估價總額",
+     "value": "52,910 日圓（含稅） = 基價 30,360 + 異地還車 15,400 + 免責 3,300 + NOC/車種指定 3,850"
+    },
+    {
+     "label": "估價未含",
+     "value": "ETC 卡 550 日圓；雪胎參考價 2,200 日圓/24 小時（庫存已用郵件確認有貨，實際加價以訂時為準）"
+    },
+    {
+     "label": "付款",
+     "value": "只收信用卡"
+    },
+    {
+     "label": "駕照提醒",
+     "value": "台灣核發的國際駕照在日本無效，要另外準備台灣駕照的日文譯本。",
+     "important": true
+    },
+    {
+     "label": "自駕段",
+     "value": "熊本 → 黑川 → 由布院 → 別府 → safari → 小倉。"
+    },
+    {
+     "label": "不開車的段",
+     "value": "小倉 → 博多 → 熊本搭新幹線；熊本市區 ↔ 機場搭機場利木津巴士。城市裡不需要車。"
+    },
+    {
+     "label": "為什麼這樣切",
+     "value": "報告第 11 回說黑川溫泉等地不開車較難抵達；safari 官方也以車子自駕繞行為主。城市段開車反而要找停車。"
+    },
+    {
+     "label": "冬季裝備",
+     "value": "黑川位在高地，官方旅館頁提醒 12-2 月可能積雪結冰，需要雪胎或雪鍊；safari 的別府灣、由布岳 Smart IC 只收 ETC 車。若要訂車，這兩項要一併確認。",
+     "important": true
+    }
+   ],
+   "sources": [
+    4
+   ]
+  },
+  "legs": {
+   "columns": [
+    "路段",
+    "自駕（約）",
+    "大眾運輸（約）"
+   ],
+   "rows": [
+    [
+     "熊本市區 → 黑川溫泉",
+     "1 小時 50 分（經阿蘇、Milk Road）",
+     "九州橫斷巴士由熊本站直達約 3 小時"
+    ],
+    [
+     "黑川 → 由布院",
+     "約 1 小時 30 分（到湯布院 IC，經やまなみハイウェイ）",
+     "九州橫斷巴士約 1 小時 37 分"
+    ],
+    [
+     "由布院/別府 → safari",
+     "由布岳 Smart IC 約 10 分、別府 IC 約 20 分",
+     "別府站西口龜之井巴士約 50 分"
+    ],
+    [
+     "黑川 → safari（直達）",
+     "約 1 小時 30 分-2 小時（推估）",
+     "需經由布院、別府轉車，半天以上"
+    ],
+    [
+     "safari → 小倉",
+     "約 1 小時 30 分（東九州道）",
+     "巴士回別府約 50 分 + 特急音速號約 1 小時 10-25 分"
+    ],
+    [
+     "小倉 → 博多",
+     "約 1 小時-1 小時 10 分",
+     "新幹線約 15 分"
+    ],
+    [
+     "博多 → 熊本",
+     "約 1 小時 10-30 分",
+     "新幹線最快 32 分"
+    ],
+    [
+     "熊本市區 → 機場 KMJ",
+     "計程車約 40 分",
+     "利木津巴士：櫻町巴士總站特快 45 分/一般 55 分"
+    ]
+   ],
+   "note": "「黑川 → safari 直達」沒有官方數字，是依黑川旅館標的「別府約 1 小時 30 分」加上 safari 官方「別府 IC 約 20 分」推估。其他時間取自黑川溫泉官方、各旅館交通頁、safari 官方、宇佐市、阿蘇熊本機場官方與 JR 九州時刻，實際以當天路況與班表為準。やまなみハイウェイ的冬季路況，Surfer 看的 5 個部落格都沒寫，出發前需再確認。",
+   "sources": [
+    10,
+    14,
+    6,
+    7,
+    21,
+    22
+   ]
+  },
+  "notes": [
+   {
+    "text": "空港特快只停櫻町巴士總站和通町筋，去 Candeo 可以搭這班；要去 JR 熊本站的話，不要搭空港特快。往市區的巴士在 4 號站牌。（風塵萬里 https://wind.suzukihiro.tw/kumamoto-airport/ ；文中部分為震前資訊）",
+    "sources": [
+     12
+    ]
+   },
+   {
+    "text": "熊本能不能用全國通行的交通系 IC 卡，部落格說法不一：一篇寫 2024/11/15 起不能用、建議帶信用卡，另一篇寫機場巴士可以刷 IC 卡。需再確認，備好信用卡最保險。"
+   },
+   {
+    "text": "在熊本市區開車：路面電車軌道若畫黃色實線，汽車絕對不能開進去；路口右轉時，算是綠燈也要先讓對向電車。（Peikie 熊本系列 1）",
+    "sources": [
+     18
+    ]
+   },
+   {
+    "text": "1/1 博多 → 熊本：熊本太太寫若不是連假節期，自由席通常有位子；1/1 正好是連假，前提不成立，建議劃指定席。（https://mmktabi.com/kumamoto-fukuoka-traffic/）",
+    "sources": [
+     20
+    ]
+   },
+   {
+    "text": "報告第 151 回提醒：博多至小倉屬山陽新幹線，全九州版 JR Pass 不包含；買票前看現行官方規則。"
+   }
+  ]
+ },
+ "notices": {
+  "railAlert": {
+   "lead": "報告第 461 回的新幹線說法已過時",
+   "text": "節目 2026/8/9 說熊本到鹿兒島新幹線還沒通。JR 九州公告：令和 8 年熊本地震（2026/7/28）後停駛的熊本至新水俣段已於 2026/9/18 恢復，熊本以南暫時降速運行。這趟只用到博多至熊本段，不受影響。",
+   "sources": [
+    22
+   ]
+  },
+  "yearEnd": [
+   {
+    "text": "safari：官方寫全年無休，12/31、1/1 照常開（官方時間及可靠整理）；部落格沒覆蓋這件事，出發前仍要再看官網。",
+    "sources": [
+     5,
+     8
+    ]
+   },
+   {
+    "text": "熊本城：官方休園日只有 12/29；2026-27 年末年始特別安排待公告。",
+    "sources": [
+     15,
+     17
+    ]
+   },
+   {
+    "text": "小倉城：官方寫全年無休，但年末各日時間可能變動。",
+    "sources": [
+     23
+    ]
+   },
+   {
+    "text": "太宰府天滿宮：可靠整理寫 2027 年樓門 12/31 6:30 起開到 1/4 21:00，1/1-1/3 全天擁擠；正式公告出來再確認。部落格沒有人潮數字。",
+    "sources": [
+     35
+    ]
+   },
+   {
+    "text": "黑川溫泉與優彩：地震後通常營業（優彩 8/14 公告）；九州橫斷巴士當時有部分停駛，若改搭巴士要查最新班表。",
+    "sources": [
+     13
+    ]
+   },
+   {
+    "text": "報告第 151 回提醒：博多至小倉屬山陽新幹線，全九州版 JR Pass 不包含；買票前看現行官方規則。"
+   }
+  ],
+  "closures": {
+   "title": "這趟撞到的公休、停駛與期間外（草案寫到的）",
+   "items": [
+    {
+     "date": "12/27（日）",
+     "text": "由布院 J-Tapas 照文章看沒開（週日沒列為營業日）。"
+    },
+    {
+     "date": "12/27",
+     "text": "久住花公園每年 12/1 到 2 月底全面休園，不要排。"
+    },
+    {
+     "date": "12/29（二）",
+     "text": "潮風號觀光小火車不會開（只在 3-11 月的週六、日和國定假日運行）。"
+    },
+    {
+     "date": "12/29（二）",
+     "text": "下關平家茶屋定休日是週二，照文章看沒開。"
+    },
+    {
+     "date": "12/29",
+     "text": "火之山纜車從 2024/11/10 停駛，預計 2027 年 3 月才恢復。"
+    },
+    {
+     "date": "12/29",
+     "text": "小倉城竹あかり 2026 年期間是 10/23-11/3，12 月沒有。"
+    },
+    {
+     "date": "12/30（三）",
+     "text": "海鳴拉麵本店週三公休，不要排那間本店。"
+    },
+    {
+     "date": "12/30 起",
+     "text": "博多聖誕市集只到 12/25，已經結束。"
+    },
+    {
+     "date": "1/1、1/2",
+     "text": "熊本こむらさき年末年始公休，不要排。"
+    }
+   ]
+  },
+  "general": [
+   {
+    "text": "日本境內時間一律為日本時間（JST，UTC+9，比台灣快 1 小時）。"
+   },
+   {
+    "text": "除夕和元旦很多餐廳、商店會提早打烊或休息。"
+   },
+   {
+    "text": "台灣核發的國際駕照在日本無效，要另外準備台灣駕照的日文譯本。"
+   },
+   {
+    "text": "熊本能不能用全國通行的交通系 IC 卡，部落格說法不一，需再確認，備好信用卡最保險。"
+   },
+   {
+    "text": "黑川位在高地，官方旅館頁提醒 12-2 月可能積雪結冰，需要雪胎或雪鍊。"
+   }
+  ]
+ },
+ "todos": [
+  {
+   "text": "去程機票 12/25 RMQ 15:05 → KMJ 18:15",
+   "done": true,
+   "meta": "已訂"
+  },
+  {
+   "text": "回程機票 1/2 KMJ 19:15 → RMQ 21:05",
+   "done": true,
+   "meta": "已訂"
+  },
+  {
+   "text": "12/25 Candeo Hotels 熊本新市街",
+   "done": true,
+   "meta": "Booking.com"
+  },
+  {
+   "text": "12/26 湯峡の響き 優彩（幽京之響 由彩）",
+   "done": true,
+   "meta": "Agoda"
+  },
+  {
+   "text": "12/27 別府或由布院住宿（Galleria 御堂原為節目候選）",
+   "done": false,
+   "meta": "尚未訂"
+  },
+  {
+   "text": "12/28-29 Hotel Reference Kokuraekimae",
+   "done": true,
+   "meta": "Agoda"
+  },
+  {
+   "text": "12/30-31 西鐵 CROOM 博多",
+   "done": true,
+   "meta": "Agoda，地址待補"
+  },
+  {
+   "text": "1/1 Candeo Hotels 熊本新市街",
+   "done": true,
+   "meta": "Agoda"
+  },
+  {
+   "text": "租車：Prius 2.0，12/26 12:30 熊本新幹線口店取、12/28 14:30 小倉駅前店還",
+   "done": false,
+   "meta": "官網估價 52,910 日圓（2026/11/10），尚未預訂"
+  },
+  {
+   "text": "確認台灣駕照日文譯本（國際駕照在日本無效）、雪胎與 ETC 卡",
+   "done": false
+  },
+  {
+   "text": "safari 出發前確認當天營業與積雪",
+   "done": false
+  },
+  {
+   "text": "熊本城 2026-27 年末年始公告",
+   "done": false
+  },
+  {
+   "text": "太宰府 2027 初詣正式公告與人潮",
+   "done": false
+  },
+  {
+   "text": "1/1 博多至熊本新幹線指定席",
+   "done": false
+  },
+  {
+   "text": "博多水炊鍋或牛腸鍋訂位、除夕晚餐訂位",
+   "done": false
+  },
+  {
+   "text": "鶴屋 2027 初賣時間",
+   "done": false
+  }
+ ],
+ "openQuestions": [
+  "12/27 住宿：主建議住別府（節目候選 Galleria 御堂原），備選由布院。年底房價與空房都還沒查，也還沒訂。",
+  "Safari 營業時間與冬季路況：官方寫全年無休、冬季 9:15-16:00，但部落格沒實地文章；積雪或台風會臨時休園，出發前要再看官網。",
+  "やまなみハイウェイ冬季路況（積雪、結冰、是否必須雪胎）：5 個部落格都沒寫。",
+  "太宰府年底、初詣人潮與交通管制：部落格沒有具體數字。",
+  "鶴屋百貨營業時間與 2027 年初賣：5 個部落格都沒寫。"
+ ],
+ "sources": [
+  {
+   "id": 1,
+   "title": "研究生《日本大特搜》九州公開資料報告",
+   "site": "Page",
+   "href": "https://cursor.com/canvas/store-ec609458-f1ca-4d69-9a53-91984ab3abb3/74325088-bd66-4f80-b5e9-e53d14edc971"
+  },
+  {
+   "id": 2,
+   "title": "日本大特搜 第 458 回（Galleria 御堂原）",
+   "site": "japanvibes.net",
+   "href": "https://japanvibes.net/ep/458/"
+  },
+  {
+   "id": 3,
+   "title": "日本大特搜 第 280 回（料理谷邸 葛籠）",
+   "site": "japanvibes.net",
+   "href": "https://japanvibes.net/ep/280/"
+  },
+  {
+   "id": 4,
+   "title": "Toyota Rent a Car 官網（Prius 估價來源）",
+   "site": "rent.toyota.co.jp",
+   "href": "https://rent.toyota.co.jp/"
+  },
+  {
+   "id": 5,
+   "title": "African Safari 營業時間・料金",
+   "site": "africansafari.co.jp",
+   "href": "https://africansafari.co.jp/information/"
+  },
+  {
+   "id": 6,
+   "title": "African Safari 交通",
+   "site": "africansafari.co.jp",
+   "href": "https://africansafari.co.jp/access/"
+  },
+  {
+   "id": 7,
+   "title": "宇佐市：九州自然動物公園 African Safari",
+   "site": "city.usa.oita.jp",
+   "href": "https://www.city.usa.oita.jp/tourist/touristspot/touristspot2/touristspot3/10181.html"
+  },
+  {
+   "id": 8,
+   "title": "九州動物園年末年始整理（2026-27）",
+   "site": "konomachi-note.jp",
+   "href": "https://konomachi-note.jp/guides/play-nenmatsu-nenshi-doubutsuen-kyushu/"
+  },
+  {
+   "id": 9,
+   "title": "黑川溫泉 入湯手形",
+   "site": "kurokawaonsen.or.jp",
+   "href": "https://kurokawaonsen.or.jp/tegata/"
+  },
+  {
+   "id": 10,
+   "title": "黑川溫泉 交通",
+   "site": "kurokawaonsen.or.jp",
+   "href": "https://kurokawaonsen.or.jp/access/"
+  },
+  {
+   "id": 11,
+   "title": "風塵萬里：黑川入湯手形 2025",
+   "site": "wind.suzukihiro.tw",
+   "href": "https://wind.suzukihiro.tw/tegata/"
+  },
+  {
+   "id": 12,
+   "title": "風塵萬里：阿蘇熊本機場到市區交通",
+   "site": "wind.suzukihiro.tw",
+   "href": "https://wind.suzukihiro.tw/kumamoto-airport/"
+  },
+  {
+   "id": 13,
+   "title": "優彩：地震後營業與交通公告",
+   "site": "yusai.com",
+   "href": "https://yusai.com/news.php?id=257"
+  },
+  {
+   "id": 14,
+   "title": "旅館こうの湯 交通（車程）",
+   "site": "kounoyu.jp",
+   "href": "https://kounoyu.jp/access.html"
+  },
+  {
+   "id": 15,
+   "title": "熊本城 觀覽案內",
+   "site": "castle.kumamoto-guide.jp",
+   "href": "https://castle.kumamoto-guide.jp/info/"
+  },
+  {
+   "id": 16,
+   "title": "熊本城 地震後開園情報（9/18）",
+   "site": "kumamoto-guide.mom",
+   "href": "https://kumamoto-guide.mom/kumamoto-castle/news/detail/1459"
+  },
+  {
+   "id": 17,
+   "title": "熊本市：熊本城年末年始（2025-26）",
+   "site": "city.kumamoto.jp",
+   "href": "https://www.city.kumamoto.jp/kiji00368355/index.html"
+  },
+  {
+   "id": 18,
+   "title": "Peikie：熊本系列 1（城、車道）",
+   "site": "peikie.com",
+   "href": "https://peikie.com/aboutkumamoto/"
+  },
+  {
+   "id": 19,
+   "title": "Peikie：熊本系列 2（含こむらさき公休）",
+   "site": "peikie.com",
+   "href": "https://peikie.com/aboutkumamoto2/"
+  },
+  {
+   "id": 20,
+   "title": "熊本太太：福岡到熊本交通",
+   "site": "mmktabi.com",
+   "href": "https://mmktabi.com/kumamoto-fukuoka-traffic/"
+  },
+  {
+   "id": 21,
+   "title": "阿蘇熊本機場 交通",
+   "site": "kumamoto-airport.co.jp",
+   "href": "https://www.kumamoto-airport.co.jp/access/"
+  },
+  {
+   "id": 22,
+   "title": "JR 九州：九州新幹線 9/18 起變更時刻",
+   "site": "jrkyushu.co.jp",
+   "href": "https://www.jrkyushu.co.jp/common/inc/news/newtopics/__icsFiles/afieldfile/2026/09/04/20260831_Kyushu_Shinkansen_Timetable_Effective_September_18.pdf"
+  },
+  {
+   "id": 23,
+   "title": "小倉城 營業時間",
+   "site": "kokura-castle.jp",
+   "href": "https://kokura-castle.jp/schedule/"
+  },
+  {
+   "id": 24,
+   "title": "門司港レトロ 交通",
+   "site": "mojiko.info",
+   "href": "https://www.mojiko.info/about/access.html"
+  },
+  {
+   "id": 25,
+   "title": "許傑：15 個門司港景點（含潮風號）",
+   "site": "journey.tw",
+   "href": "https://journey.tw/go-mojiko/"
+  },
+  {
+   "id": 26,
+   "title": "許傑：關門隧道與火之山纜車",
+   "site": "journey.tw",
+   "href": "https://journey.tw/kanmon-tonneru/"
+  },
+  {
+   "id": 27,
+   "title": "許傑：唐戶市場",
+   "site": "journey.tw",
+   "href": "https://journey.tw/karato-market/"
+  },
+  {
+   "id": 28,
+   "title": "Peikie：門司港與福岡（含平家茶屋）",
+   "site": "peikie.com",
+   "href": "https://peikie.com/mojikoandfukuoka/"
+  },
+  {
+   "id": 29,
+   "title": "別府地獄めぐり 營業案內",
+   "site": "beppu-jigoku.com",
+   "href": "http://www.beppu-jigoku.com/fee/"
+  },
+  {
+   "id": 30,
+   "title": "許傑：別府地獄",
+   "site": "journey.tw",
+   "href": "https://journey.tw/beppu-jigoku/"
+  },
+  {
+   "id": 31,
+   "title": "許傑：九重夢大吊橋",
+   "site": "journey.tw",
+   "href": "https://journey.tw/yumeooturihashi/"
+  },
+  {
+   "id": 32,
+   "title": "許傑：久住花公園（冬季休園）",
+   "site": "journey.tw",
+   "href": "https://journey.tw/kujuhanakoen/"
+  },
+  {
+   "id": 33,
+   "title": "太宰府觀光協會 交通",
+   "site": "dazaifu.org",
+   "href": "https://dazaifu.org/access/"
+  },
+  {
+   "id": 34,
+   "title": "許傑：太宰府交通與旅人號",
+   "site": "journey.tw",
+   "href": "https://journey.tw/starbucks-dazaifu/"
+  },
+  {
+   "id": 35,
+   "title": "太宰府 2027 初詣整理",
+   "site": "fukuoka-sumai-labo.com",
+   "href": "https://fukuoka-sumai-labo.com/dazaifu-shi-hatsumoude/"
+  },
+  {
+   "id": 36,
+   "title": "Peikie：福岡聖誕節燈飾 2026",
+   "site": "peikie.com",
+   "href": "https://peikie.com/2026fukuokaxmax/"
+  },
+  {
+   "id": 37,
+   "title": "新飯店住宿評鑑：御宿野乃 別府八湯",
+   "site": "goodhotelreview.com",
+   "href": "https://goodhotelreview.com/japan/beppu-hatto-onyado-nono/"
+  }
+ ]
+}
