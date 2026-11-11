@@ -1,12 +1,21 @@
 /* 離線快取。改了任何檔案（含 data.json）後，把 VERSION 加一，iPhone 才會換新。 */
-const VERSION = 'kyushu-v1';
+const VERSION = 'kyushu-v1.1.0';
 const ASSETS = [
   './', './index.html', './app.js', './styles.css', './data.json', './manifest.webmanifest',
   './icons/apple-touch-icon.png', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png'
 ];
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(VERSION).then((c) => c.addAll(ASSETS.map((u) => new Request(u, { cache: 'reload' })))).then(() => self.skipWaiting()));
+  e.waitUntil((async () => {
+    const c = await caches.open(VERSION);
+    await c.addAll(ASSETS.map((u) => new Request(u, { cache: 'reload' })));
+    // v1 的畫面沒有「更新提示」按鈕，從 v1 升級時直接接手；之後的版本會等使用者點「更新」
+    if (await caches.has('kyushu-v1')) await self.skipWaiting();
+  })());
+});
+
+self.addEventListener('message', (e) => {
+  if (e.data && e.data.type === 'SKIP_WAITING') self.skipWaiting();
 });
 
 self.addEventListener('activate', (e) => {
@@ -17,7 +26,7 @@ self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
-  if (url.origin !== self.location.origin) return; // 外部連結不處理
+  if (url.origin !== self.location.origin) return; // 外部連結（地圖、匯率 API）不處理
 
   // data.json：先上網拿最新，失敗就用快取
   if (url.pathname.endsWith('/data.json')) {
